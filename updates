@@ -2,20 +2,24 @@
   "updates": [
     {
       "version": "0.0.2",
-      "title": "New Infinite Tree & Infinite Upgrades & New mode",
+      "title": "New Infinite Tree & Infinite Upgrades & New Mode & Steam Wishlist",
       "content": [
-        "New Infinite tree upgrades",
-        "QOL & Analytics!",
-        "Wishlitst Steam",
-        "New mode (Time Attack)",
-        "Settings & Player Confort",
-        "New German Languages & Fixes"
+        "The Infinite Tree has been fully upgraded with new tiers and mechanics, allowing for deeper progression and strategy.",
+        "A brand new Time Attack mode has been added, giving players a fast-paced challenge to test their skills.",
+        "The game is now integrated with Steam Wishlist, making it easier for players to follow updates and upcoming releases.",
+        "Quality of Life improvements have been implemented: better UI feedback, smoother menus, and enhanced player comfort.",
+        "New German language support has been added to make the game accessible to more players.",
+        "Bug fixes and stability improvements have been applied to ensure a smoother gameplay experience."
       ]
     },
     {
       "version": "0.0.1",
       "title": "First Release",
-      "content": "Try out Chop Chains Demo"
+      "content": [
+        "Initial release of the Chop Chains Demo.",
+        "Players can try the basic gameplay, including core mechanics of chopping and chain combos.",
+        "Provides a foundation for upcoming modes, tree upgrades, and Steam integration."
+      ]
     }
   ]
 }
