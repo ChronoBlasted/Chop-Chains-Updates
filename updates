@@ -2,7 +2,7 @@
   "updates": [
     {
       "version": "0.0.2",
-      "title": "New Infinite Tree & Infinite Upgrades",
+      "title": "New Infinite Tree & Infinite Upgrades & New mode",
       "content": [
         "New Infinite tree upgrades",
         "QOL & Analytics!",
@@ -11,11 +11,11 @@
         "Settings & Player Confort",
         "New German Languages & Fixes"
       ]
-    }   ,
-{
+    },
+    {
       "version": "0.0.1",
       "title": "First Release",
       "content": "Try out Chop Chains Demo"
-    },
+    }
   ]
 }
