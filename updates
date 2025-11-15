@@ -1,0 +1,21 @@
+{
+  "updates": [
+    {
+      "version": "0.0.2",
+      "title": "New Infinite Tree & Infinite Upgrades",
+      "content": [
+        "New Infinite tree upgrades",
+        "QOL & Analytics!",
+        "Wishlitst Steam",
+        "New mode (Time Attack)",
+        "Settings & Player Confort",
+        "New German Languages & Fixes"
+      ]
+    }   ,
+{
+      "version": "0.0.1",
+      "title": "First Release",
+      "content": "Try out Chop Chains Demo"
+    },
+  ]
+}
