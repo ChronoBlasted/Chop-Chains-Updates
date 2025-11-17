@@ -1,6 +1,20 @@
 {
   "updates": [
     {
+      "version": "0.0.3",
+      "title": "Cheat Code, Skill Tree Update & Double Axe",
+      "content": [
+        "Added a new cheat code `WOODMAX` that gives 1,000,000 of each wood to compensate for lost progress.",
+        "Skill Tree layout has been fully updated for better readability and smoother progression.",
+        "Added 1 Infinite Tree at the start of a Time Attack run to give players a fast start.",
+        "Double Axe now hits the same tree twice, increasing efficiency and adding more strategy.",
+        "Forest cost and wood reward have been balanced, along with early upgrade prices including Fortune 1.",
+        "Improved Skill Tree hover tooltips and increased dezoom range for easier navigation.",
+        "Bug fixes include: tutorial popups appearing correctly on reload, infinite tree tile bug fixed, music loop issue fixed, and closing popups now correctly resumes the game timer.",
+        "Analytics have been fixed and now track properly."
+      ]
+    },
+    {
       "version": "0.0.2",
       "title": "New Infinite Tree & Infinite Upgrades & New Mode & Steam Wishlist",
       "content": [
